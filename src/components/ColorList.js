@@ -1,6 +1,13 @@
 import React from "react";
 
-functionColorlist() {
+function Colorlist() {
+  const color =[
+    "firebrick",
+    "rebeccapurple",
+    "salmon",
+    "darkslategray",
+    "hotpink",
+  ]
 
 }
 
