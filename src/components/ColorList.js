@@ -8,6 +8,7 @@ function Colorlist() {
     "darkslategray",
     "hotpink",
   ]
+  const colorElements = colors.map((color) => {
 
 }
 
